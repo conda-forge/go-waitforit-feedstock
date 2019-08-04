@@ -6,7 +6,7 @@
 
 package:
   name: go-{{ name|lower }}
-  version: v{{ version }}
+  version: "2.4.1"
 
 source:
   - folder: {{ pkg_src }}
